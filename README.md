@@ -4,8 +4,6 @@
 
 </div>
 
-<img align="left" alt="Java" width="26px" src="http://www.athenaglobus.com/wp-content/uploads/2014/12/java-logo-png.png" /> 
-
 ```java
 public class Sauq extends Coder implements Developer, Gamer, Creator {
     @Override
