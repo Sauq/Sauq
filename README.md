@@ -1,3 +1,4 @@
+<div align="center">
 <h1 align="center">Hi 👋, I'm Sauq</h1>
 <h3 align="center">A passionate Java/Python Developer
 
