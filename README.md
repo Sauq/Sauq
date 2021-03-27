@@ -2,12 +2,15 @@
 <h1 align="center">Hi 👋, I'm Sauq</h1>
 <h3 align="center">A passionate Java/Python Developer
 
+</div>
+
 ```java
 public class Sauq extends Coder implements Developer, Gamer, Creator {
     @Override
     public void aboutMe() {
         public String fact = "I like to Code!";
     }
+
     @Override
     public void codingStuff() {
         public String[] workingOn = ["Century Client", "House Bot", "code-folder-generator", "nebulayt.xyz"];
@@ -15,8 +18,6 @@ public class Sauq extends Coder implements Developer, Gamer, Creator {
         public String tryingTo = "Make A Century Client Website";
         public String learnt = ["Python"], ["Java"], ["Discord.PY"];
     }
-```
-```java
 
     @Override
     public void Socials() {
@@ -25,3 +26,4 @@ public class Sauq extends Coder implements Developer, Gamer, Creator {
     }
 }
 ```
+
