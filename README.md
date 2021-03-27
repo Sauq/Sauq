@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi 👋, I'm Sauq
-<h3 align="center">A passionate Java/Python Developer</h1>
+<h3 align="center">A Java/Python Developer</h1>
 
 </div>
 
