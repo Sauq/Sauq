@@ -16,7 +16,7 @@ public class Sauq extends Coder implements Developer, Gamer, Creator {
         public String[] workingOn = ["Century Client", "House Bot"];
         public String[] learning = ["Java", "CSS", "HTML"];
         public String tryingTo = "Make A Century Client Website";
-        public String learnt = ["Python"], ["Java"], ["Discord.PY"];
+        public String learnt = ["Python"], ["Java"], ["Discord.py"];
     }
 
     @Override
