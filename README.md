@@ -1,10 +1,12 @@
 <div align="center">
 <h1 align="center">Hi 👋, I'm Sauq
 
+<h2 align="center">A Programmer
+
 </div>
 
 ```c#
-public class Sauq : Coder, Developer, Gamer, Creator
+public class Sauq : Coder, Developer
 {
     public void AboutMe()
     {
@@ -13,9 +15,9 @@ public class Sauq : Coder, Developer, Gamer, Creator
 
     public void CodingStuff()
     {
-        string[] learning = { "Java", "CSS", "HTML", "AI/ML" };
-        string[] learnt = { "Python", "C#", "Java", "Discord.py" };
-        string tryingTo = "Learn more about AI/ML and build awesome projects!";
+        string[] learning = { "Java", "JS", "AI/ML","UI/UX" };
+        string[] learnt = { "Python", "C#", "HTML", "CSS" };
+        string tryingTo = "build some AI/ML projects";
     }
 }
 ```
