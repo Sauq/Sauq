@@ -1,6 +1,6 @@
 # 👋 Hey, I'm **Sauq**
 
-Aspiring software engineer from England. I’m exploring different areas of development and building projects that help me learn and improve.
+A Software engineer from England. I’m exploring different areas of development and building projects that help me learn and improve.
 
 ---
 
