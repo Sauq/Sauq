@@ -38,4 +38,4 @@ I'm currently focused on:
 ## 🤝 Want to Collaborate?
 If you'd like to connect or work on something together, feel free to reach out:
 
-📫 **You can contact me directly through my GitHub profile.**
+📧 **Email:** *SauqDevelopment@gmail.com*  
