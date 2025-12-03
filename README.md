@@ -28,6 +28,7 @@ Aspiring software engineer from England. I’m exploring different areas of deve
 ## 🔭 What I'm Working On
 I'm currently focused on:
 
+- **Creating new Projects** as alot of my old repos was from when i was younger
 - **Backend development** using SQL  
 - **Tools and utilities** built with C# and Python  
 - **Web projects** to improve frontend and API skills  
